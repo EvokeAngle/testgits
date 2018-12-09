@@ -2,6 +2,3 @@ mybatis  数据库操作框架
 面向接口
 配置文件编写sql语句、数据源、事务管理器
 使用注解和xml同时配置mybatis 有的情况xml比注解更加方便易懂
-
-
-Transactions Dao Support,jdbc,orm marshalling xml   marshalling ：集结待发
